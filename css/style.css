@@ -3,7 +3,10 @@ h1 {
     color: cornflowerblue;
 }
 p {
-    background-color: crimson;
+    background-color: blanchedalmond;
+}
+li{
+    background-color: blanchedalmond;
 }
 body {
 background-image: url("../images/arbre.jpg");
